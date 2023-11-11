@@ -1,0 +1,84 @@
+:root {
+    --white: #ffffff;
+    --black: #000000;
+
+    --grey-50: #fafafa;
+    --grey-100: #f5f5f5;
+    --grey-200: #efefef;
+    --grey-300: #e1e1e1;
+    --grey-400: #bebebe;
+    --grey-500: #999;
+    --grey-600: #767676;
+    --grey-700: #626262;
+    --grey-800: #434343;
+    --grey-900: #222;
+
+    --blue-50: #e0f4fd;
+    --blue-100: #afe2f9; /* DISABLE */
+    --blue-200: #7acff5;
+    --blue-300: #42bcf0; /* HOVER */
+    --blue-400: #00adee; /* MAIN */
+    --blue-500: #00a1eb;
+    --blue-600: #0093dc;
+    --blue-700: #0080c9;
+    --blue-800: #0070b5;
+    --blue-900: #005093;
+
+    --green-50: #f0faea;
+    --green-100: #daf1ca;
+    --green-200: #c1e8a8;
+    --green-300: #a8de84;
+    --green-400: #93d668;
+    --green-500: #80cf4c; /* HOVER */
+    --green-600: #70BE44; /* MAIN */
+    --green-700: #5ca93a;
+    --green-800: #489530;
+    --green-900: #20731e;
+
+    --lavender-50:#e7e7f0;
+    --lavender-100:#c3c3db;
+    --lavender-200:#9c9dc2;
+    --lavender-300:#77a; /* MAIN */
+    --lavender-400:#5d5a99;
+    --lavender-500: #443f8d;
+    --lavender-600:#3e3783;
+    --lavender-700:#362e78;
+    --lavender-800:#2e256c;
+    --lavender-900:#211359;
+
+    --red-50: #ffeaec;
+    --red-100: #fcc;
+    --red-200: #f39791;
+    --red-300: #ea6e66;
+    --red-400: #f34c3f;
+    --red-500: #f63a1d;
+    --red-600: #e82e1f; /* Red pure */
+    --red-700: #d00; /* MAIN */
+    --red-800: #c91911;
+    --red-900: #bb0000;
+
+    --turquoise-50: #e5f1f0;
+    --turquoise-100: #bddcda;
+    --turquoise-200: #97c7c3;
+    --turquoise-300: #76b0ab; /* MAIN. Fourth level tree */
+    --turquoise-400: #659f99;
+    --turquoise-500: #558f88;
+    --turquoise-600: #4f827c; /* Third level tree */
+    --turquoise-700: #48736c;
+    --turquoise-800: #41635d;
+    --turquoise-900: #334743;
+
+    --orange-50: #fff3e0;
+    --orange-100: #ffe0b2;
+    --orange-200: #ffcc80;
+    --orange-300: #ffb84d;
+    --orange-400: #ffa826;
+    --orange-500: #ff9900; /* MAIN */
+    --orange-600: #fb8d00;
+    --orange-700: #f57d00;
+    --orange-800: #ef6d00;
+    --orange-900: #e65200;
+
+    --gold: #e5a400;
+
+}
